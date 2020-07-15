@@ -166,37 +166,3 @@ I found other [packages](https://pypi.python.org/pypi?%3Aaction=search&term=baye
 But I am coming from the Java mothership and I want to use Bayesian Belief Networks in Java. How do I perform probabilistic inference in Java?
 
 This Python code base is a port of the [original Java code](https://github.com/vangj/jbayes).
-
-# Read the Docs
-
-[Documentation](https://py-bbn.readthedocs.io/en/latest/) available online!
-
-# Citation
-
-```
-@misc{vang_2017, 
-title={PyBBN}, 
-url={https://github.com/vangj/py-bbn/}, 
-journal={GitHub},
-author={Vang, Jee}, 
-year={2017}, 
-month={Jan}}
-```
-
-# Copyright Stuff
-
-```
-Copyright 2017 Jee Vang
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```

@@ -1,0 +1,21 @@
+# TEST
+nose
+coverage
+# LINT OR DIE
+flake8
+pep8
+pyflakes
+# LIBS
+numpy
+scipy
+joblib
+networkx
+pandas
+matplotlib
+pygraphviz
+ipykernel
+# DOCUMENTATION
+sphinx
+sphinx_rtd_theme
+# PUBLISHING
+twine

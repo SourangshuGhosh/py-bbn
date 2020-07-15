@@ -1,0 +1,19 @@
+name: pybbn37
+dependencies:
+  - python=3.7
+  - nose
+  - coverage
+  - flake8
+  - pep8
+  - pyflakes
+  - numpy
+  - scipy
+  - joblib
+  - networkx
+  - pandas
+  - matplotlib
+  - pygraphviz
+  - ipykernel
+  - sphinx
+  - sphinx_rtd_theme
+  - twine
